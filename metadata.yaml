@@ -1,0 +1,33 @@
+_repo: Man-to-Man_18933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gregory, Jackson
+    birthdate: 1882
+    deathdate: 1943
+    gutenberg_agent_id: '3384'
+    url: http://www.gutenberg.org/2009/agents/3384
+    wikipedia: http://en.wikipedia.org/wiki/Jackson_Gregory
+description: Settle in for a stiff dose of daring and danger in Jackson Gregory's
+  classic Man to Man. Protagonist Steve Packard comes from a long line of rough-and-tumble
+  men who make decisions at the drop of a hat, and when he gets the urge to put his
+  career as a sailor on hold and travel to his childhood stomping, he doesn't stop
+  to question it -- he just goes. But giving into this nostalgic impulse may be the
+  worst mistake in the long line of blunders that is his life. Will he make it out
+  alive?
+gutenberg_issued: '2006-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18933'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: Man to Man
+url: http://www.gutenberg.org/ebooks/18933
